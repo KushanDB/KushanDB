@@ -9,7 +9,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F76B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Specialist;Java+Enthusiast;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IndWit&label=Profile%20views&color=0e75b6&style=flat" alt="IndWit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KushanDB&label=Profile%20views&color=0e75b6&style=flat" alt="IndWit" /> </p>
 
 <div align="center">
   
