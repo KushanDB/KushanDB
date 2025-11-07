@@ -29,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IndWit&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndWit&layout=compact&theme=radical&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KushanDB&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushanDB&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ## 🛠️ Technologies & Tools
