@@ -20,7 +20,6 @@
 ## 🚀 About Me
 
 - 💼 I'm a Fullstack Developer passionate about creating engaging digital experiences
-- 🌱 I'm currently exploring DevOps and Cloud Technologies
 - 🎓 I'm an undergraduate at **Sabaragamuwa University of Sri Lanka**
 - 💡 Enthusiastic about building innovative web and mobile applications with a creative touch
 - 📫 How to reach me: **jayathungadbk4@gmail.com**
